@@ -1,0 +1,9 @@
+img.perfect-fit {
+	width: 200px;
+	height: 200px;
+	object-fit: cover;
+	/*min-width: 100%;*/
+	/*min-height: 100%;*/
+	/*position: relative;*/
+	/*overflow: hidden;*/
+}
